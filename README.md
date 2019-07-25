@@ -14,9 +14,10 @@ Here, Omnifood can provide what you earger to look for. We have 100% organic foo
 - Responsive web design
 - JQuery plug-in
 
+<br/>
 <p align="center">
   <img src="./resources/img/logo.png" width="50%" alt="preview"/>
 </p>
-
+<br/>
 
 This project was designed by Jonas Schemedtmann
