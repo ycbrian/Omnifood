@@ -20,4 +20,4 @@ Here, Omnifood can provide what you earger to look for. We have 100% organic foo
 </p>
 <br/>
 
-This project was designed by Jonas Schemedtmann
+
